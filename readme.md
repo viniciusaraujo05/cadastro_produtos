@@ -22,9 +22,9 @@ ela vai aparecer tambem no cadastro do produto.
 - XAMPP (Ou outro parecido)
 
 **Iniciando o projeto:**
-0 - Após o download do projeto, coloque ele na pasta htdocs do XAMPP (Ou outro parecido)
-1 - Rode o Sql que está na pasta "bd";
-2 - Inicie o Apache
-3 - No seu navegador de preferencia acesse esssa URL: http://127.0.0.1/assessment-backend-xp/
-4 - Sucesso ;)
+- Após o download do projeto, coloque ele na pasta htdocs do XAMPP (Ou outro parecido)
+- Rode o Sql que está na pasta "bd";
+- Inicie o Apache
+- No seu navegador de preferencia acesse esssa URL: http://127.0.0.1/assessment-backend-xp/
+- Sucesso ;)
 
