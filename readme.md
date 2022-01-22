@@ -1,9 +1,9 @@
 
 # Tecnologias:
-PHP 7
-Jquery 3.6.0
-javaScript 
-Mysql 8
+- PHP 7
+- Jquery 3.6.0
+- javaScript 
+- Mysql 8
 
 # Soluções:
 Como estrutura das pastas, usei MVC por ser de fácil manutenção e ótima organização.
@@ -17,9 +17,9 @@ ela vai aparecer tambem no cadastro do produto.
 
 # Como iniciar o projeto:
 **Requisitos:**
-Mysql 8
-php 7
-XAMPP (Ou outro parecido)
+- Mysql 8
+- php 7
+- XAMPP (Ou outro parecido)
 
 **Iniciando o projeto:**
 0 - Após o download do projeto, coloque ele na pasta htdocs do XAMPP (Ou outro parecido)
