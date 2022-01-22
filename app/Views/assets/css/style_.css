@@ -1,0 +1,79 @@
+.wrapper {
+  display: flex;
+  align-items: center;
+  flex-direction: column; 
+  justify-content: center;
+  position: relative;
+  margin-top: 5%;
+  margin-bottom: 5%;
+}
+
+.label_formulario{
+    
+    font-size: 15px;
+}
+
+.botao-ajuda{
+    
+    margin-top: 32px;
+}
+
+.btn-confirm{
+
+	background-color: #218838 !important; 
+}
+
+.btn-cancel{
+
+  background-color: #dc3545 !important;
+  color: #fff;
+
+}
+
+.img-login{
+
+  display: flex;
+  align-items: center;
+  flex-direction: column; 
+  justify-content: center;
+  position: relative;
+  
+}
+
+/*@media screen and (max-width: 1141px) {
+  .img-login{
+
+    margin-left: 1%;
+
+  }
+}
+
+@media screen and (max-width: 992px) {
+ 
+ .img-login{
+
+  margin-left: 4%;
+
+ }
+
+
+}
+
+@media screen and (max-width: 768px) {
+ 
+  .img-login{
+
+    margin-left: -3%;
+
+  }
+
+}
+
+@media screen and (max-width: 576px) {
+
+  .img-login{
+
+    margin-left: 16%;
+
+  }
+}*/
